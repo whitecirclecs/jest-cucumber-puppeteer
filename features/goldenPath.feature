@@ -13,3 +13,4 @@ Feature: Golden Path
     And I am at the page
     When I use the user sidebar to go to page "adduser"
     Then I see the page ""
+    Then I add one more line
